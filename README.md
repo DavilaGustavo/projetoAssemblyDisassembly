@@ -10,25 +10,25 @@ Este repositório contém vários projetos escritos em Assembly, utilizando a pl
 ## Projetos
 
 ### 1. Ano Bissexto
-![bissexto](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/3c44ea53-39f1-4b99-b7c2-5782a373222b)
+![bissextoCertoo](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/74d27b58-daf3-4c70-8537-1e29820e5cce)
 
 **Descrição:** 
 Este programa lê um ano fornecido pelo usuário e determina se é um ano bissexto ou não.
 
 ### 2. Fibonacci
-![fibonacci](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/370e44ca-8dbf-43dd-984c-41c86800a3b9)
+![FibonacciCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/743d24a4-eeaa-4126-9335-dc3cf2b31ac0)
 
 **Descrição:** 
 Este programa calcula e exibe os primeiros N números da sequência de Fibonacci.
 
 ### 3. Bubble Sort
-![bubbleSort](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/be2e6283-0f47-4252-934b-db448f6f032c)
+![Bubble Sort CERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/f6e3add1-42eb-46d2-86e9-04a450ef4928)
 
 **Descrição:** 
 Este programa implementa o algoritmo de ordenação Bubble Sort para organizar um array de números.
 
 ### 4. Maior Número
-![maiorNumero](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/47d9c074-c6d8-478b-90a4-5eee74fbc581)
+![maiornumCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/245a3543-69c8-4a61-8c47-e40d000896eb)
 
 **Descrição:** 
 Este programa encontra o maior elemento em um vetor de N posições.
