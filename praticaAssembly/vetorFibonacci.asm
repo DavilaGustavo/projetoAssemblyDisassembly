@@ -1,3 +1,5 @@
+; Recebe um valor N e exibe os N primeiros termos de Fibonacci
+
 %include "io.inc"
 
 section .data

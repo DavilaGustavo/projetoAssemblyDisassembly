@@ -1,7 +1,9 @@
+; Ordenação de vetor utilizando Bubblesort
+
 %include "io.inc" 
 
 section .data
-    array db 7,1,3,6             ; Array para organizar
+    array db 7, 1, 3, 6          ; Array para organizar
     tamArray db 4                ; Tamanho do array
 
 section .text
