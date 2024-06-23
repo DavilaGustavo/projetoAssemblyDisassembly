@@ -1,13 +1,14 @@
 # Projeto de Assembly e Disassembly
 ![Novo Projeto (53)](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/d683576d-f0e2-45c3-8113-96df99ba0b8b)
 
-Este repositório contém vários projetos escritos em Assembly, utilizando a plataforma SASM (Simple Assembly Language IDE). Cada projeto realiza uma tarefa específica. Siga as instruções abaixo para reproduzir cada um dos projetos.
+Este repositório contém vários projetos escritos em Assembly, utilizando a plataforma SASM (Simple Assembly Language IDE), e uma aplicação de disassembly para a engenharia reversa de um arquivo `Grupo13.exe`, com o objetivo de encontrar a senha referente. Siga as instruções abaixo para reproduzir cada um dos projetos.
 
 ## Requisitos
 
 - [SASM (Simple Assembly Language IDE)](https://dman95.github.io/SASM/)
+- [x64dbg (x64/x32 debugger)](https://github.com/x64dbg/x64dbg)
 
-## Projetos
+## Assembly
 
 ### 0. Loop For
 ![loopForCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/b4bf584c-3ee9-4dec-a72b-bfaba4876915)
@@ -58,3 +59,20 @@ Este programa encontra o maior elemento em um vetor de N posições.
 
 ## Estrutura do Repositório
 Cada arquivo `.asm` na pasta `praticaAssembly` corresponde a um dos projetos descritos acima. Sinta-se à vontade para explorar e modificar os códigos para entender melhor o funcionamento de cada algoritmo em Assembly.
+
+## Disassembly
+
+### Projeto de Disassembly
+
+**Descrição:** 
+Esta seção contém um exemplo de disassembly, onde um arquivo executável (.exe) foi desmontado para análise e estudo. O objetivo foi encontrar uma senha para acessar o programa e criar um código em C com a mesma função.
+
+### Estrutura do Repositório
+
+- `Grupo13.exe`: O arquivo executável original que foi analisado.
+- `Grupo13Cracked.exe`: A versão do executável que foi modificada para bypassar a proteção de senha.
+- `senha.txt`: O arquivo contendo a senha encontrada durante a análise.
+- `tentativasExe/`: Pasta contendo todas as tentativas realizadas durante o processo de disassembly.
+- `CodigoC/`: Pasta contendo o código equivalente escrito na linguagem C.
+
+Para mais detalhes e exemplos específicos de como o disassembly foi realizado, veja os arquivos na pasta `praticaDisassembly`.
