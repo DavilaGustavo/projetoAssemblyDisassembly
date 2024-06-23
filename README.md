@@ -9,6 +9,7 @@ Este repositório contém vários projetos escritos em Assembly, utilizando a pl
 - [x64dbg (x64/x32 debugger)](https://github.com/x64dbg/x64dbg)
 
 ## Assembly
+![AssemblyCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/c2bfda3f-60a0-421e-8851-a756c46ce5c2)
 
 ### 0. Loop For
 ![loopForCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/b4bf584c-3ee9-4dec-a72b-bfaba4876915)
@@ -61,6 +62,7 @@ Este programa encontra o maior elemento em um vetor de N posições.
 Cada arquivo `.asm` na pasta `praticaAssembly` corresponde a um dos projetos descritos acima. Sinta-se à vontade para explorar e modificar os códigos para entender melhor o funcionamento de cada algoritmo em Assembly.
 
 ## Disassembly
+![DisassemblyCERTO (1)](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/2a0ee2fb-ebb0-4980-a617-765f369e51cb)
 
 ### Projeto de Disassembly
 
