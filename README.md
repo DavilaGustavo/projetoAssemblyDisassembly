@@ -10,7 +10,7 @@ Este repositório contém vários projetos escritos em Assembly, utilizando a pl
 ## Projetos
 
 ### 0. Loop For
-![forloopCerto](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/9c753710-5f1c-4f8a-919b-cfcdae4241b3)
+![loopForCERTO](https://github.com/DavilaGustavo/projetoAssemblyDisassembly/assets/106328212/b4bf584c-3ee9-4dec-a72b-bfaba4876915)
 
 **Descrição:** 
 Este programa implementa o loop for, imprimindo "i equals %d" cem vezes.
