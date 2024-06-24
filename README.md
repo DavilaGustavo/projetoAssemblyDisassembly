@@ -74,6 +74,7 @@ Esta seção contém um exemplo de disassembly, onde um arquivo executável (.ex
 - `Grupo13.exe`: O arquivo executável original que foi analisado.
 - `Grupo13Cracked.exe`: A versão do executável que foi modificada para bypassar a proteção de senha.
 - `senha.txt`: O arquivo contendo a senha encontrada durante a análise.
+- `relatorioDisassembly`: Relatório contendo explicação de como o executável foi quebrado e a senha encontrada.
 - `tentativasExe/`: Pasta contendo todas as tentativas realizadas durante o processo de disassembly.
 - `CodigoC/`: Pasta contendo o código equivalente escrito na linguagem C.
 
